@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(40, 172, 143);
+    background-color: rgb(215, 194, 168);
 }
 
 h1 {
@@ -11,6 +11,20 @@ h2 {
     text-align: center;
 }
 
-h3 {
-    te
+.tips {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.tips img {
+    max-width: 100%;
+    height: auto;
+}
+
+.contacto {
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
 }
